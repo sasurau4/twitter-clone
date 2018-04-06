@@ -1,12 +1,11 @@
 # twitter-clone
-This is Twitter Clone made with React Native, Redux, React Navigation made by expo snack.
-[expo snack](https://snack.expo.io/@sasurau4/twitter-clone)
+This is Twitter Clone made with React Native, Redux, React Navigation made by [expo snack](https://snack.expo.io/@sasurau4/twitter-clone).
 
-This App is example of learning React Native Fundamentals.
-Some features and views only implemented.
+This App is example of learning React Native Fundamentals. So, only some features and views are implemented
 
 ## How to use
 You start up this application and enter below. 
+
 userName : `hogehoge@test.com`
 password : `test`
 
