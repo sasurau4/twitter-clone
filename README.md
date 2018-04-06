@@ -6,8 +6,8 @@ This App is example of learning React Native Fundamentals. So, only some feature
 ## How to use
 You start up this application and enter below. 
 
-userName : `hogehoge@test.com`
-password : `test`
+- userName : `hogehoge@test.com`
+- password : `test`
 
 you enter Application like twitter!
 
