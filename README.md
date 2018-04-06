@@ -1,5 +1,9 @@
 # twitter-clone
-This is Twitter Clone made with React Native, Redux, React Navigation.
+This is Twitter Clone made with React Native, Redux, React Navigation made by expo snack.
+[expo snack](https://snack.expo.io/@sasurau4/twitter-clone)
+
+This App is example of learning React Native Fundamentals.
+Some features and views only implemented.
 
 ## How to use
 You start up this application and enter below. 
@@ -36,8 +40,6 @@ Touched a tweet, navigate to Profile Screen of person who the tweet posted.
 Profile Screen consists of 2 Component, one is Profile and one is the person's own tweets.
 If you want to Logout, Header Right button pressed then you return Login Screen and never back Profile Screen. 
 You can touched any buttons and tweets but nothing to happen.
-That's next TODO.
-
 
 
 ## Dependencies
@@ -47,7 +49,3 @@ That's next TODO.
 - Redux
 - React Navigation
 
-## TODOs
-- Async actions and Flow using Middleware
-- Screen Interactions ( favorite, retweet, comment etc...)
-- More Screens (New Tweet Post, Profile Popup Menu etc...)
